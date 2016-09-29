@@ -2,11 +2,11 @@
 /*Datos de conexion a la base de datos*/
 define('DB_HOST', 'localhost');//DB_HOST:  generalmente suele ser "127.0.0.1"
 //define('DB_USER', 'impactonac');//Usuario de tu base de datos
-define('DB_USER', 'u669571457_root');//Usuario de tu base de datos
+define('DB_USER', '');//Usuario de tu base de datos
 //define('DB_PASS', '');//Contraseña del usuario de la base de datos
 define('DB_PASS', '');//Contraseña del usuario de la base de datos
 //define('DB_NAME', 'impacton_simple_invoice');//Nombre de la base de datos
-define('DB_NAME', 'u669571457_factu');//Nombre de la base de datos
+define('DB_NAME', '');//Nombre de la base de datos
  
 /*Datos de la empresa*/
 define('NOMBRE_EMPRESA', 'tera sistems');
