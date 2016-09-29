@@ -3,8 +3,8 @@
 define('DB_HOST', 'localhost');//DB_HOST:  generalmente suele ser "127.0.0.1"
 //define('DB_USER', 'impactonac');//Usuario de tu base de datos
 define('DB_USER', 'u669571457_root');//Usuario de tu base de datos
-//define('DB_PASS', '4F3jvgMc95');//Contraseña del usuario de la base de datos
-define('DB_PASS', '16923509j');//Contraseña del usuario de la base de datos
+//define('DB_PASS', '');//Contraseña del usuario de la base de datos
+define('DB_PASS', '');//Contraseña del usuario de la base de datos
 //define('DB_NAME', 'impacton_simple_invoice');//Nombre de la base de datos
 define('DB_NAME', 'u669571457_factu');//Nombre de la base de datos
  
